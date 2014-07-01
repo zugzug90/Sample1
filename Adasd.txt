@@ -1,0 +1,6 @@
+git commit -am "TSTGITPLUG-1 refactoring"
+git commit -am "TSTGITPLUG-1 refactoring"
+git commit -am "TSTGITPLUG-1 refactoring"
+git commit -am "TSTGITPLUG-1 refactoring"
+git commit -am "TSTGITPLUG-1 refactoring"
+git commit -am "TSTGITPLUG-1 refactoring"
