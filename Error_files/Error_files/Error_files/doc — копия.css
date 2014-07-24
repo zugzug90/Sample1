@@ -1,0 +1,38 @@
+ul{padding-left:1em;list-style:inside disc;}
+ul li{margin:2px 0;}
+#container{width:1006px; padding:10px 0px; margin: 0 auto; float:none; min-height:450px;}
+
+#container .js{overflow:hidden;zoom:1;}
+#container .carousel,
+#container .carousel .carousel-wrap{margin:0;border:0;zoom:1;}
+#container .js .carousel-wrap{display:block;vertical-align:middle;width:865px; min-height:136px;float:left;}/* Style of carousel. */
+.IE #container .js .carousel-wrap{display:inline;}
+#container .carousel ul{margin:0;padding:0;zoom:1;}
+#container .js ul li{overflow:hidden;display:inline;float:left;width:125px;min-height:136px;text-align:center;}/* Style of one cell. */
+#container .carousel .carousel-control{overflow:hidden;display: inline-table; float:left; vertical-align:middle;width:40px;height:145px;cursor:pointer;zoom:1;}/* Style of buttons. */
+#container .carousel .carousel-next{background:url(images/buttons/next.png) 50% 50% no-repeat;}/* Next button. */
+#container .carousel .carousel-previous{background:url(images/buttons/prev.png) 50% 50% no-repeat;}/* Previous button. */
+#container .carousel .carousel-control:hover{-moz-opacity:.7;opacity:0.70;filter:alpha(opacity=70);}/* Hovered style of buttons.*/
+#container .carousel .disabled,#container .carousel .disabled:hover{-moz-opacity:.1;opacity:0.10;filter:alpha(opacity=10);cursor:default;}
+
+.screen{}
+.screen, .screen td {
+    background: none !important;
+    border: none;
+    color: black;
+    font-size: 10px;
+}
+.screen_date{text-align:left;}
+.screen_text a {
+    text-decoration: underline;
+    background: none !important;
+    border: none;
+    color: black;
+    font-size: 10px;
+}
+.screen_img { height:90px; }
+
+.screen_text {
+    text-align: left;
+    margin: auto 5px;
+}
